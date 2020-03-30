@@ -1,0 +1,3 @@
+.build/							usr/src/myJournalKitura
+terraform/scripts/install.sh	usr/src/myJournalKitura
+terraform/scripts/start.sh		usr/src/myJournalKitura
